@@ -1,4 +1,4 @@
-# LOLZIN
+# Genius Game on JAVA
 Projeto Java POEE6
 Curso: Engenharia da Computação - - IFSP CAMPUS BIRIGUI
 Nome: Fabrício Malta
