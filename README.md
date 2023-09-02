@@ -1,6 +1,6 @@
 # Genius Game on JAVA <br>
 Projeto Java POEE6<br>
-Curso: Engenharia da Computação - - IFSP CAMPUS BIRIGUI<br>
+Curso: Engenharia da Computação<br>
 Nome: Fabrício Malta<br>
 
 Para que o programa funcione corretamente é necessário ter um banco de dados chamado "lolzin" no padrão utf-8 e configurar adequadamente
